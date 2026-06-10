@@ -41,4 +41,4 @@ React, Django, software architecture, cloud and DevOps, cybersecurity, and AI-as
 
 Open to conversations about software engineering, FinTech, risk management, cybersecurity, project leadership, and automation.
 
-Full CV: [View here](https://drive.google.com/file/d/1Eh2ekOYX9y3gLynlk_mEHn4NcXahBCsE)
+Full CV [here](https://drive.google.com/file/d/1Eh2ekOYX9y3gLynlk_mEHn4NcXahBCsE)
