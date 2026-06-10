@@ -27,7 +27,7 @@ I build practical software at the intersection of technology and business, with 
 
 ## Education
 
-[Diploma](https://www.credential.net/fd8243a8-30df-43ac-8f80-ba13b580f435) in Full Stack Software Development (E-Commerce), [Code Institute](https://codeinstitute.net/), Ireland
+<a href="https://www.credential.net/fd8243a8-30df-43ac-8f80-ba13b580f435" target="_blank">Diploma</a> in Full Stack Software Development (E-Commerce), <a href="https://codeinstitute.net/" target="_blank">Code Institute</a>, Ireland
 
 ---
 
