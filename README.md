@@ -12,7 +12,6 @@ Full Stack Software Engineer with 9 years of commercial experience and a 16-year
 ## JavaScript / React (~1.5 years)
 - Led migration from Laravel server-rendered views to a full React SPA
 - Implemented multilingual support using i18n internationalisation library
-- Built a micro-frontend architecture for an anti-fraud department UI
 - Production experience with Redux, TypeScript, SASS, Jest, and responsive design
 ## TypeScript / Angular (~4 years)
 - Built an anti-fraud department web application UI from scratch using Angular with micro-frontend architecture
