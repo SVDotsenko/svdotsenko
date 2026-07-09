@@ -38,6 +38,10 @@ Full Stack Software Engineer with 9 years of commercial experience and a 16-year
 - MS SQL Server - production use on Spring Boot application (Booker+)
 - PostgreSQL - projects at Code Institute
 - MariaDB - production use at Esvoe social network platform
+## Perl / BranchPower (~1 year)
+- Maintained and extended a legacy Perl/Oracle banking system at Raiffeisen Bank
+- Delivered bug fixes and feature updates in a production environment
+- Used Oracle SQL, PL/SQL and XML for backend data processing and reporting
 ## DevOps & Tools (~3 years)
 - Jenkins CI/CD - production use across multiple projects for automated builds and deployments
 - Docker - production use for containerisation across multiple projects
