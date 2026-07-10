@@ -28,7 +28,7 @@ Full Stack Software Engineer with 9 years of commercial experience and a 16-year
 ## Python / Django (~8 months, educational)
 - Built multiple full-stack projects using Django and Flask during Full Stack diploma at Code Institute Ireland
 - Integrated Stripe payment processing into an e-commerce application
-## Blockchain / Solidity (~1 year)
+## Solidity / Ethereum (~1 year)
 - Self-taught Ethereum smart contract development
 - Developed and deployed a smart contract to the Ropsten test network via Infura
 - Built a web application integrated with the smart contract via web3.js (frontend) and web3j (backend)
@@ -45,6 +45,7 @@ Full Stack Software Engineer with 9 years of commercial experience and a 16-year
 ## DevOps & Tools (~3 years)
 - Jenkins CI/CD - production use across multiple projects for automated builds and deployments
 - Docker - production use for containerisation across multiple projects
+- Postman - API testing and request collection management during backend and integration work
 - Coordinated setup of an automated deployment pipeline covering 30+ applications alongside DevOps engineers
 - Manual deployments via Linux command line - pulling updates, restarting services, clearing application cache
 - Git-based workflows - daily production use with GitHub, GitLab, and Bitbucket
@@ -52,6 +53,10 @@ Full Stack Software Engineer with 9 years of commercial experience and a 16-year
 Self-studied through video tutorials on YouTube and Udemy. No hands-on project experience to date.
 ## AWS (educational only, no project experience)
 Completed educational video series on AWS through Code Institute's learning platform. No hands-on project experience to date.
+## AI Coding Tools
+- GitHub Copilot for code suggestions, boilerplate generation, and faster daily development.
+- ChatGPT for debugging, explaining code, and accelerating problem-solving.
+- Claude for longer-form analysis, architecture discussions, and writing support.
 ## Education
 [Diploma](https://www.credential.net/fd8243a8-30df-43ac-8f80-ba13b580f435) in Full Stack Software Development (E-Commerce), [Code Institute](https://codeinstitute.net/), Ireland - Level 8 SCQF
 ## Banking & Finance Background
