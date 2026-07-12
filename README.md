@@ -1,5 +1,5 @@
 # Hi, I'm Serhii Dotsenko
-Full Stack Software Engineer with 9 years of commercial experience and a 16-year background in banking, risk management, and financial markets.
+Software Engineer with 9 years of commercial experience and a 16-year background in banking, risk management, and financial markets.
 ## Leadership & Agile (~1.5 years)
 - Team Lead / Project Manager / Scrum Master at Esvoe.com, leading delivery for a product team and coordinating work in Jira.
 - Practiced Scrum-style planning, task breakdown, daily coordination, and delivery tracking in a fast-moving product environment.
