@@ -122,10 +122,7 @@ Completed educational video series on AWS through Code Institute's learning plat
 16 years in Ukrainian banking across market risk, credit risk, treasury, and retail lending. Hands-on VaR/CaR/PD modelling using Bloomberg Terminal, stress-testing frameworks, Power BI reporting, and securities trading at a brokerage firm.
 </details>
 
-<details>
-<summary>Let's Connect</summary>
-
+### 
 Open to conversations about full stack development, FinTech, risk management, and AI-assisted engineering.
 
 Full CV [here](https://drive.google.com/file/d/1Eh2ekOYX9y3gLynlk_mEHn4NcXahBCsE)
-</details>
